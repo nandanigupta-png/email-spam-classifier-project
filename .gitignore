@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Trained model (re-create it with: python src/train.py)
+models/*.pkl
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
